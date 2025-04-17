@@ -1,4 +1,4 @@
-# barcode.php
+# PHP Barcode Generator
 
 ### Generate barcodes from a single PHP file. MIT license.
 
